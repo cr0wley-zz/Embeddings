@@ -1,8 +1,8 @@
 # Embeddings
 ## A study on Word Embeddings
 
-The concept of words as vectors was an ingenius concept (![introduced in 2013](https://arxiv.org/pdf/1301.3781.pdf) by Mikolov et.al. 
-During the time of its conception, it blew open the possibilities and raised the bar of NLP. Through this repository and the (![accompanying  Weights and Biases report](https://arxiv.org/pdf/1301.3781.pdf), we have segmented the concept thoroughly and in a such a way that all idelogical intuitions formed in transition of reading the report pave way for a better understanding of the underlying mathematics involved. We have also included a hands-on coding tutorial explaining each relevant steps invovled. 
+The concept of words as vectors was an ingenius concept ([introduced in 2013](https://arxiv.org/pdf/1301.3781.pdf) by Mikolov et.al. 
+During the time of its conception, it blew open the possibilities and raised the bar of NLP. Through this repository and the ([accompanying  Weights and Biases report](https://arxiv.org/pdf/1301.3781.pdf), we have segmented the concept thoroughly and in a such a way that all idelogical intuitions formed in transition of reading the report pave way for a better understanding of the underlying mathematics involved. We have also included a hands-on coding tutorial explaining each relevant steps invovled. 
 
 Through this report, we have explained two core concepts in Word2Vec;
 * Continuous Bag of Words 
@@ -20,7 +20,7 @@ embeddings.
 ## Data Used
 To assess and compare the prowess of the aforementioned techniques, two corporas were used;
 * Self made small set of sentences not covering a general topic
-* (![A relatively bigger paragraph based on Marie Curie and her achievements](https://www.testprepreview.com/modules/reading1.htm)
+* ([A relatively bigger paragraph based on Marie Curie and her achievements](https://www.testprepreview.com/modules/reading1.htm)
 
 ## Results 
 Our intention was to see how these two architectures fare when fed with different types of data. Below are a few visualizations we got as results
