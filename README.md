@@ -20,7 +20,7 @@ embeddings.
 ## Data Used
 To assess and compare the prowess of the aforementioned techniques, two corporas were used;
 * Self made small set of sentences not covering a general topic
-* ([A relatively bigger paragraph based on Marie Curie and her achievements](https://www.testprepreview.com/modules/reading1.htm)
+* [A relatively bigger paragraph based on Marie Curie and her achievements](https://www.testprepreview.com/modules/reading1.htm)
 
 ## Results 
 Our intention was to see how these two architectures fare when fed with different types of data. Below are a few visualizations we got as results
