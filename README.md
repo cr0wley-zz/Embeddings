@@ -27,7 +27,7 @@ To assess and compare the prowess of the aforementioned techniques, two corporas
 ## Results 
 Our intention was to see how these two architectures fare when fed with different types of data. Below is one of the visualizations obtained; 
 ![Skip-Gram on larger dataset](https://paper-attachments.dropbox.com/s_474E5FAEE8723AF840CCD9D13992447EF9ED954AE7D76095CA017F9B9BBBCA03_1605817502946_skipgram.png)
--> Skip-gram visualization on a large dataset <-
+->Skip-gram visualization on a large dataset<-
 
 As we can see, similar words have formed clusters with each other, notably the years and the group of parts of speech. 
 Our study encompasses the impact these visualizations have on the usage of these architectures. 
